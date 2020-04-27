@@ -1,0 +1,35 @@
+[
+  {
+    "headline": "Elon Musk says he doesn't care about degrees, Tesla job listings suggest otherwise",
+    "summary": "Earlier this month, Tesla CEO Elon Musk tweeted he was organizing a super fun AI party at his house with Tesla AI/autopilot team",
+    "imageurl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/master_elon_musk2-796x417.png",
+    "url": "https://thenextweb.com/tech/2020/02/21/elon-musk-says-he-doesnt-care-about-degrees-tesla-job-listings-suggest-otherwise/"
+  },
+  {
+    "headline": "Facebook will pay you for your voice recordings, but it's not worth it",
+    "summary": "Last year, Facebook said it would stop listening to voice notes in messenger to improve its speech recognition technology. Now, the company is starting a new program where it will explicitly ask you to submit your recordings, and earn money in return.",
+    "imageurl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Facebook-recording-796x418.jpg",
+    "url": "https://thenextweb.com/facebook/2020/02/21/facebook-will-pay-you-for-your-voice-recordings-but-its-not-worth-it/"
+  },
+  {
+    "headline": "Microsoft is bringing its Defender security software to iOS and Android",
+    "summary": "In the past couple of years, Microsoft has made some solid apps for iOS and Android. Now, the company is planning to bring its Defender antivirus solution for mobile platforms. These apps will be part of Microsoft's enterprise suite.",
+    "imageurl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Microsoft-Defender-796x418.jpg",
+    "url": "https://thenextweb.com/microsoft/2020/02/21/microsoft-is-bringing-its-defender-security-software-to-ios-and-android/"
+  },
+
+  {
+    "headline": "Spotify is finally showing lyrics synced with music so you can sing along",
+    "summary": "Spotify is finally giving you the tools to sing along without embarrassing yourself or mumbling while you pretend you know the lyrics, The streaming service is in the process of rolling out a new feature that displays the lyrics of a song as it plays, sort of like karaoke but without the drowned out vocals",
+    "imageurl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/spotify-lyrics-songs-796x417.jpg",
+    "url": "https://thenextweb.com/apps/2020/02/20/spotify-lyrics-songs/"
+  },
+
+  {
+    "headline": "Twitter tests labeling and correcting 'harmfully misleading' tweets by politicians",
+    "summary": "The 2016 election was a watershed moment for the spread of misinformation online, so social networks have been exploring ideas to prevent the same from happening again in 2020.",
+    "imageurl": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/08/twitter-796x417.png",
+    "url": "https://thenextweb.com/twitter/2020/02/21/twitter-tests-labeling-and-correcting-harmfully-misleading-tweets-by-politicians/"
+  }
+
+]
